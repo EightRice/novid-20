@@ -1,0 +1,1 @@
+Working on an Android port for the application to integrate Python backend and C# frontend. Android port will be compatible with Android 5.0+ to ensure greatest compatibility among devices, especially in 3rd-world areas. Visual Studio is being used for this coding. Repo is here: https://github.com/wmthornton/NOVID-20
