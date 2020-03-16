@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "V8zxMXCgF2nBJRNhXCFUDt9tHegqJEed+Ft0RpyhTGH6Lf07jYArApBfhiuK7Q37Z+1iFzXpyE++Fep4GkV3CA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TheFi\\source\\repos\\NOVID-20\\NOVID-20\\NOVID-20.iOS\\NOVID-20.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TheFi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
