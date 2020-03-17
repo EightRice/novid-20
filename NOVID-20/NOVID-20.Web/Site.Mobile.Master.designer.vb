@@ -65,5 +65,5 @@ Partial Public Class Site_Mobile
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents ViewSwitcher1 As Global.System.Web.UI.UserControl
+    Protected WithEvents ViewSwitcher1 As Global.NOVID_20.Web.ViewSwitcher
 End Class

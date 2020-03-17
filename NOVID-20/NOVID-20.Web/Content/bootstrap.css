@@ -1293,7 +1293,7 @@ p {
   margin-bottom: 20px;
   font-size: 16px;
   font-weight: 300;
-  line-height: 1.4;
+  line-height: 150%;
 }
 @media (min-width: 768px) {
   .lead {
@@ -5041,11 +5041,13 @@ a.badge:focus {
 .jumbotron h1,
 .jumbotron .h1 {
   color: inherit;
+    text-align: center;
 }
 .jumbotron p {
   margin-bottom: 15px;
   font-size: 21px;
   font-weight: 200;
+    text-align: center;
 }
 .jumbotron > hr {
   border-top-color: #d5d5d5;
