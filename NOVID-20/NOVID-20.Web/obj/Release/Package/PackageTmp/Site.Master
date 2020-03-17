@@ -51,8 +51,8 @@
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
                         <li><a runat="server" href="~/">SCAN CODE</a></li>
-                        <li><a runat="server" href="~/About">SEARCH</a></li>
-                        <li><a runat="server" href="~/Contact">ALERTS</a></li>
+                        <li><a runat="server" href="~/Search">SEARCH</a></li>
+                        <li><a runat="server" href="~/Alerts">ALERTS</a></li>
                     </ul>
                 </div>
             </div>
